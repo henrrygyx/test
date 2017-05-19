@@ -9,6 +9,7 @@ import java.net.Socket;
 public class TalkServer {
 
 	/**
+	 * ²âÊÔgit´úÂëÌá½»
 	 * @param args
 	 */
 	public static void main(String[] args) {
